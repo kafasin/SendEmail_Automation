@@ -1,2 +1,2 @@
-# SendEmail_Automation
+# Email Automation
 Sending Emails with Python
